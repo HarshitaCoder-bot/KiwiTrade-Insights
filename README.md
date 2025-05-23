@@ -76,16 +76,8 @@ Provide clear export performance insights by:
 
 ---
 
-## 📸 Screenshots / Demos  
-*(Insert your screenshots here)*  
-Example screenshots:
-- 🗺️ Total Sales by Region  
-- 📦 Top 5 Items by Sales  
-- ⏳ Delivery Days by Region  
-- 📆 Quarterly Profit Trend  
+## 📸 Dashboard Overview 
 
 ---
-
-## 📥 Download PBIX  
-👉 [Click here to download the Power BI Report](./New-Zealand-Export-Dashboard.pbix)
+👉 [KiwiTrade-Insights](./https://github.com/HarshitaCoder-bot/KiwiTrade-Insights/blob/20ed99ea59e4e14dfe9dae4ca6eb3bce3988e1cf/KiwiTrade%20Insights%20Dashboard.png?raw=true)
 
