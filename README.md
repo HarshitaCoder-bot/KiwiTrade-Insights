@@ -79,5 +79,5 @@ Provide clear export performance insights by:
 ## 📸 Dashboard Overview 
 
 ---
-👉 [KiwiTrade-Insights](./https://github.com/HarshitaCoder-bot/KiwiTrade-Insights/blob/20ed99ea59e4e14dfe9dae4ca6eb3bce3988e1cf/KiwiTrade%20Insights%20Dashboard.png?raw=true)
+👉 [KiwiTrade-Insights](.https://github.com/HarshitaCoder-bot/KiwiTrade-Insights/blob/19da465ad2477e5fb88bac6ab9c1c62045e3d6d1/KiwiTrade%20Insights%20Dashboard.png?raw=true)
 
